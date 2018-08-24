@@ -1,6 +1,6 @@
 # Grid网格
 
-使用方法
+使用方法<br>
 直接import {Grid} from 'Grid';
 
 
