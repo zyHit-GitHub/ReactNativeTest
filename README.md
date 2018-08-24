@@ -4,7 +4,7 @@
 直接import {Grid} from 'Grid';
 
 
-代码演示
+### 代码演示
 ```
 <Grid cols={3}>
     <View></View>
@@ -24,6 +24,9 @@
     <View></View>
 </Grid>
 ```
+### API
+![](https://github.com/zyHit-GitHub/ZyRNGrid/raw/master/Grid_API.png)  
+
 
 
 
