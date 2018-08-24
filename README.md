@@ -5,6 +5,7 @@
 
 
 代码演示
+```
 <Grid cols={3}>
     <View></View>
     <View></View>
@@ -22,6 +23,7 @@
     <View></View>
     <View></View>
 </Grid>
+```
 
 
 
